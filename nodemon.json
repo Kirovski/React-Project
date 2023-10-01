@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USER": "kirovski",
+        "MONGO_PASSWORD": "barometur",
+        "MONGO_DB": "event-react-dev"
+    }
+}
